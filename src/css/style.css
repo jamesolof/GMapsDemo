@@ -1,0 +1,9 @@
+body{
+    padding-top: 50px
+}
+
+.angular-google-map-container {
+    height: 200px;
+    width: 500px;
+    border: 1px solid black;
+}
